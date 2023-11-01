@@ -1,5 +1,0 @@
-# aPublicProject
-
-readme
-
-hihi
